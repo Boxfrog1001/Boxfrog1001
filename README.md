@@ -45,7 +45,7 @@ Status:
 
 | Domain | Arsenal |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=c,rust,solidity,python,go,bash" /> |
+| **Languages & Core** | <img src="https://skillicons.dev/icons?i=c,cpp,rust,solidity,assembly,python,go,bash,ts,js,java,arduino" /> |
 | **Security & Auditing** | `Foundry (cast/forge)` • `Semgrep AST` • `Nuclei` • `FFUF` • `Slither` • `GDB` • `Radare2` |
 | **Environments** | `Linux x86_64` • `QEMU / KVM` • `EVM Networks` • `POSIX Systems` |
 
