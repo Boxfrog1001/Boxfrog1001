@@ -27,6 +27,7 @@
 ```yaml
 Operator: Boxfrog1001
 Division: FrogSec Labs (Advanced Systems Defense)
+owner of the tee (andr 14)...
 Core_Domains:
   - Low-Level Virtualization & Sandbox Containment and sandbox breakouts 
   - Linux Kernel VFS, Memory Forensics & mobile forensics (android)
