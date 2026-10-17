@@ -12,6 +12,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/SECURITY-RESEARCHER-00FF66?style=for-the-badge&logo=hackthebox&logoColor=black" />
+    <img src="https://img.shields.io/badge/GOOGLE-POWER%20USER-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/LABS-FROGSEC%20TACTICAL-black?style=for-the-badge&logo=target&logoColor=39FF14" />
     <img src="https://img.shields.io/badge/SYSTEMS-HARDENED%20LINUX-black?style=for-the-badge&logo=linux&logoColor=39FF14" />
     <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00E5FF?style=for-the-badge&logo=statuspage&logoColor=black" />
@@ -48,7 +49,7 @@ Status:
 | :--- | :--- |
 | **Languages & Core** | <img src="https://skillicons.dev/icons?i=c,cpp,rust,solidity,assembly,python,go,bash,ts,js,java,arduino" /> |
 | **Security & Auditing** | `Foundry (cast/forge)` • `Semgrep AST` • `Nuclei` • `FFUF` • `Slither` • `GDB` • `Radare2` |
-| **Environments** | `Linux x86_64` • `QEMU / KVM` • `EVM Networks` • `POSIX Systems` |
+| **Environments & Cloud** | `Linux x86_64 / Debian` • `Google Cloud Platform (GCP)` • `Android AOSP / Pixel` • `QEMU / KVM` • `EVM Networks` • `POSIX Bare-Metal` |
 
 </div>
 
