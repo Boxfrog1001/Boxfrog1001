@@ -34,7 +34,8 @@ Core_Domains:
   - Baseband RIL HAL Architecture & Cellular Defense Research
   - Static AST Analysis & Dynamic API Fuzzing
 Status:
-  - Researching low-level systems defense and vulnerability research under Coordinated Vulnerability Disclosure (CVD).
+  - Researching low-level systems defense and vulnerability research 
+    under Coordinated Vulnerability Disclosure (CVD).
 ```
 
 ---
