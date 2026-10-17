@@ -22,7 +22,7 @@
 
 ---
 
-### ⚡ Operational Vector
+### ⚡ meow....
 
 ```yaml
 Operator: Boxfrog1001
@@ -41,7 +41,7 @@ Status:
 
 ---
 
-### 🛠️ Weaponry & Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Status:
 
 ---
 
-### 📊 Threat & Activity Monitor
+### 📊 Activity Monitor
 
 <div align="center">
 
