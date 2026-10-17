@@ -30,9 +30,11 @@ Core_Domains:
   - Low-Level Virtualization & QEMU/KVM Sandbox Containment
   - Smart Contract Invariants, DeFi State Machines & Cross-Chain Bridges
   - Linux Kernel VFS, Memory Forensics & Direct-I/O Sanitization
+  - Mobile Silicon, BootROM Extraction & Physical Hardware Forensics
+  - Baseband RIL HAL Architecture & Cellular Defense Research
   - Static AST Analysis & Dynamic API Fuzzing
 Status:
-  - Actively conducting independent research under Coordinated Vulnerability Disclosure (CVD).
+  - Researching low-level systems defense and vulnerability research under Coordinated Vulnerability Disclosure (CVD).
 ```
 
 ---
