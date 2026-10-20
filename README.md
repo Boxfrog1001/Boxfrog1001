@@ -12,7 +12,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/SECURITY-RESEARCHER-00FF66?style=for-the-badge&logo=hackthebox&logoColor=black" />
-    <img src="https://img.shields.io/badge/GOOGLE-AI-POWER%20USER-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/GOOGLE%20CLOUD%20%26%20DEEPMIND-AI%20SYSTEMS%20ARCHITECT-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/LABS-FROGSEC%20TACTICAL-black?style=for-the-badge&logo=target&logoColor=39FF14" />
     <img src="https://img.shields.io/badge/GHOSTWARE-DEPLOYED-black?style=for-the-badge&logo=gnubash&logoColor=39FF14" />
     <img src="https://img.shields.io/badge/SYSTEMS-HARDENED%20LINUX-black?style=for-the-badge&logo=linux&logoColor=39FF14" />
@@ -22,7 +22,7 @@
   <br/>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZyMnZwOGxicXZ0a3Vrd3d4OGl1NnBocnN2OXhxeGVnNHl0dmx5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300px" alt="Hacker Frog Typing" style="border-radius: 8px;" />
+    <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="300px" alt="Hacker Frog Typing" style="border-radius: 8px;" />
   </a>
 
   <br/><br/>
