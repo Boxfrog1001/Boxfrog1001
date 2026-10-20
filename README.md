@@ -20,19 +20,6 @@
   </p>
 
   <br/>
-  <p align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280px" alt="Google AI Matrix Pulse" style="border-radius: 10px; border: 1px solid #4285F4;" />
-  </p>
-  <p align="center">
-    <samp>
-      <span style="color:#4285F4;">●</span> Google Cloud 
-      <span style="color:#EA4335;">●</span> DeepMind Frontiers 
-      <span style="color:#FBBC05;">●</span> Android AOSP Internals 
-      <span style="color:#34A853;">●</span> Gemini Architecture
-    </samp>
-  </p>
-
-  <br/>
 
   <a href="https://git.io/streak-stats">
     <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="300px" alt="Hacker Frog Typing" style="border-radius: 8px;" />
