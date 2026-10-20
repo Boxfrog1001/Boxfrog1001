@@ -12,11 +12,24 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/SECURITY-RESEARCHER-00FF66?style=for-the-badge&logo=hackthebox&logoColor=black" />
-    <img src="https://img.shields.io/badge/GOOGLE%20CLOUD%20%26%20DEEPMIND-AI%20SYSTEMS%20ARCHITECT-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/GOOGLE-AI-POWER%20USER-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/LABS-FROGSEC%20TACTICAL-black?style=for-the-badge&logo=target&logoColor=39FF14" />
     <img src="https://img.shields.io/badge/GHOSTWARE-DEPLOYED-black?style=for-the-badge&logo=gnubash&logoColor=39FF14" />
     <img src="https://img.shields.io/badge/SYSTEMS-HARDENED%20LINUX-black?style=for-the-badge&logo=linux&logoColor=39FF14" />
     <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00E5FF?style=for-the-badge&logo=statuspage&logoColor=black" />
+  </p>
+
+  <br/>
+  <p align="center">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280px" alt="Google AI Matrix Pulse" style="border-radius: 10px; border: 1px solid #4285F4;" />
+  </p>
+  <p align="center">
+    <samp>
+      <span style="color:#4285F4;">●</span> Google Cloud 
+      <span style="color:#EA4335;">●</span> DeepMind Frontiers 
+      <span style="color:#FBBC05;">●</span> Android AOSP Internals 
+      <span style="color:#34A853;">●</span> Gemini Architecture
+    </samp>
   </p>
 
   <br/>
