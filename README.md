@@ -22,7 +22,7 @@
   <br/>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="300px" alt="Hacker Frog Typing" style="border-radius: 8px;" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZyMnZwOGxicXZ0a3Vrd3d4OGl1NnBocnN2OXhxeGVnNHl0dmx5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300px" alt="Hacker Frog Typing" style="border-radius: 8px;" />
   </a>
 
   <br/><br/>
