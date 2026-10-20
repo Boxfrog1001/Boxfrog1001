@@ -19,6 +19,18 @@
     <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00E5FF?style=for-the-badge&logo=statuspage&logoColor=black" />
   </p>
 
+  <br/>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="300px" alt="Hacker Frog Typing" style="border-radius: 8px;" />
+  </a>
+
+  <br/><br/>
+
+  <samp>
+    <b>"There are 10 types of people in the world: those who understand binary, those who don't, and those who didn't expect an off-by-one buffer overflow." 🐸💥</b>
+  </samp>
+
 </div>
 
 ---
@@ -73,6 +85,14 @@ Status:
   <img src="https://github-readme-stats.vercel.app/api?username=Boxfrog1001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00FF66&text_color=c9d1d9" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boxfrog1001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" height="165" />
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220px" alt="Matrix Cyber Frog" />
+  <br/>
+  <samp><i>"A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'" 🍸</i></samp>
 </div>
 
 <br/>
