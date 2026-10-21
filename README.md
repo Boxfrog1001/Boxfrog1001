@@ -1,29 +1,4 @@
-<div align="center">
 
-  <
-qa
-img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=160&section=header&text=🐸⚡%20Hey,%20I'm%20Adam%20(Boxfrog)&fontSize=36&fontColor=39FF14&fontAlignY=38&desc=Independent%20Researcher%20•%20Hardware%20Tinkerer%20•%20Puzzle%20Enthusiast&descSize=16&descAlignY=62&descColor=00E5FF" width="100%" />
-
-  <br/>
-
-  <p align="center">
-    <a href="https://github.com/Boxfrog1001">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=1100&color=39FF14&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Driven+by+curiosity+and+a+love+for+complex+puzzles.;Exploring+the+seams+between+software,+silicon,+and+radio.;Building+clean+tools+and+learning+from+the+sparks." alt="Typing SVG" />
-    </a>
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/SECURITY-RESEARCH-00FF66?style=for-the-badge&logo=target&logoColor=black" />
-    <img src="https://img.shields.io/badge/SILICON-BARE%20METAL-black?style=for-the-badge&logo=espressif&logoColor=39FF14" />
-    <img src="https://img.shields.io/badge/LAB-FROGSEC-black?style=for-the-badge&logo=gnubash&logoColor=00E5FF" />
-    <img src="https://img.shields.io/badge/STATUS-ALWAYS%20TINKERING-00E5FF?style=for-the-badge&logo=statuspage&logoColor=black" />
-  </p>
-  <br/><br/>
-  <a href="https://github.com/Boxfrog1001">
-    <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="280px" alt="Hacker Frog Typing" style="border-radius: 8px;" />
-  </a>
-
-</div>
 
 ---
 
