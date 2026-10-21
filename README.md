@@ -63,6 +63,21 @@ No security audit or late-night hardware flashing session happens without strict
 
 
 
+---
+
+### 🐾 Executive Management & Feline Oversight Committee
+
+No security audit or late-night hardware flashing session happens without strict supervision from the **FrogSec Executive Cat Board**:
+
+* **Chief Debugging Officers:** Master of unhandled physical interrupts (`SIGINT`), stepping directly across the enter key at critical moments, and conducting rigorous static thermal analysis (sleeping directly on top of warm routers).
+* **Supreme Court of Judgment:** Sitting beside the workbench, silently judging my C pointer arithmetic and completely unimpressed by zero-days until the food bowl is refilled.
+
+```text
+Board Members : The Cats 🐱🐱
+Authority     : Absolute & Uncontested
+Primary Duty  : Making sure the human doesn't forget work/life balance (or dinner)
+```
+
 ### 🛠️ The Toolkit
 
 ```text
