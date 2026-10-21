@@ -18,6 +18,10 @@ img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom
     <img src="https://img.shields.io/badge/LAB-FROGSEC-black?style=for-the-badge&logo=gnubash&logoColor=00E5FF" />
     <img src="https://img.shields.io/badge/STATUS-ALWAYS%20TINKERING-00E5FF?style=for-the-badge&logo=statuspage&logoColor=black" />
   </p>
+  <br/><br/>
+  <a href="https://github.com/Boxfrog1001">
+    <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="280px" alt="Hacker Frog Typing" style="border-radius: 8px;" />
+  </a>
 
 </div>
 
