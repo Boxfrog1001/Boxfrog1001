@@ -51,6 +51,18 @@ I’ve always had a natural obsession with taking things apart to see how they t
 
 ---
 
+
+---
+
+### 🐾 Senior Management & Feline Oversight Committee
+
+No security audit or late-night hardware flashing session happens without strict supervision from the **FrogSec Executive Cat Board**:
+
+* **Chief Debugging Officers:** Specialized in physical keyboard interrupts (), stepping directly on the enter key at critical moments, and conducting rigorous static thermal analysis (sleeping directly on top of warm carrier routers).
+* **Supreme Court of Judgment:** Sitting beside the workbench, silently judging my C pointer arithmetic and unimpressed by my zero-days until the food bowl is refilled.
+
+
+
 ### 🛠️ The Toolkit
 
 ```text
