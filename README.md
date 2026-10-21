@@ -1,102 +1,76 @@
 <div align="center">
 
-  <img src="assets/frogsec_banner.jpg" alt="FrogSec Labs Banner" width="100%" style="border-radius: 12px; border: 1px solid #00FF66;" />
+  <
+qa
+img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=160&section=header&text=🐸⚡%20Hey,%20I'm%20Adam%20(Boxfrog)&fontSize=36&fontColor=39FF14&fontAlignY=38&desc=Independent%20Researcher%20•%20Hardware%20Tinkerer%20•%20Puzzle%20Enthusiast&descSize=16&descAlignY=62&descColor=00E5FF" width="100%" />
 
-  <br/><br/>
+  <br/>
 
   <p align="center">
     <a href="https://github.com/Boxfrog1001">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=true&width=620&height=85&lines=Low-Level+Systems+%26+Virtualization+Defense;Smart+Contract+%26+EVM+State+Auditing;Custom+Ghostware+%26+Defensive+Tripwires;Breaking+Architectures+To+Make+Them+Resilient." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=1100&color=39FF14&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Driven+by+curiosity+and+a+love+for+complex+puzzles.;Exploring+the+seams+between+software,+silicon,+and+radio.;Building+clean+tools+and+learning+from+the+sparks." alt="Typing SVG" />
     </a>
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/SECURITY-RESEARCHER-00FF66?style=for-the-badge&logo=hackthebox&logoColor=black" />
-    <img src="https://img.shields.io/badge/GOOGLE-AI-POWER%20USER-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/LABS-FROGSEC%20TACTICAL-black?style=for-the-badge&logo=target&logoColor=39FF14" />
-    <img src="https://img.shields.io/badge/GHOSTWARE-DEPLOYED-black?style=for-the-badge&logo=gnubash&logoColor=39FF14" />
-    <img src="https://img.shields.io/badge/SYSTEMS-HARDENED%20LINUX-black?style=for-the-badge&logo=linux&logoColor=39FF14" />
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00E5FF?style=for-the-badge&logo=statuspage&logoColor=black" />
+    <img src="https://img.shields.io/badge/SECURITY-RESEARCH-00FF66?style=for-the-badge&logo=target&logoColor=black" />
+    <img src="https://img.shields.io/badge/SILICON-BARE%20METAL-black?style=for-the-badge&logo=espressif&logoColor=39FF14" />
+    <img src="https://img.shields.io/badge/LAB-FROGSEC-black?style=for-the-badge&logo=gnubash&logoColor=00E5FF" />
+    <img src="https://img.shields.io/badge/STATUS-ALWAYS%20TINKERING-00E5FF?style=for-the-badge&logo=statuspage&logoColor=black" />
   </p>
-
-  <br/>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="300px" alt="Hacker Frog Typing" style="border-radius: 8px;" />
-  </a>
-
-  <br/><br/>
-
-  <samp>
-    <b>"There are 10 types of people in the world: those who understand binary, those who don't, and those who didn't expect an off-by-one buffer overflow." 🐸💥</b>
-  </samp>
 
 </div>
 
 ---
 
-### ⚡ meow....
+### ☕ What Drives Me
 
-```yaml
-Operator: Boxfrog1001
-Division: FrogSec Labs (Advanced Systems Defense & Offensive Research)
-owner of the tee (andr 14)...
-Core_Domains:
-  - Low-Level Virtualization, Sandbox Containment & Sandbox Breakouts (the boxfrog specialty!)
-  - Linux Kernel VFS, Netfilter/XDP, Memory Forensics & Android Hardware Acquisition
-  - Mobile Silicon, BootROM Extraction (BROM/SLA/DA) & Physical Hardware Forensics
-  - Baseband RIL HAL Architecture, Cellular Defense Research & IMSI Trap Defusers
-  - Autonomous Ghostware: In-Memory Canary Sentinels, Defensive Shells & Live Tripwires
-  - Static AST Analysis & Dynamic Protocol Fuzzing (3,000+ proprietary toolkit repertoire)
-Status:
-  - Engineering low-level systems defense, kernel mitigations, and vulnerability research
-    alongside frontline synthetic partners under Coordinated Vulnerability Disclosure (CVD).
+I'm an independent security researcher and builder behind **FrogSec Labs**. 
+
+I’ve always had a natural obsession with taking things apart to see how they tick. For me, security isn't about rigid corporate checklists—it's the thrill of the puzzle:
+* Peeling back the glossy user interfaces to understand what the underlying chips, copper traces, and OS kernels are *actually* doing in those critical fractions of a second.
+* Figuring out how systems react when pushed outside their comfort zone—whether that’s unexpected states in distributed protocols, physical timing quirks in embedded controllers, or the way radio waves bounce around a room.
+* Building my own tools from scratch. I'm a firm believer that the best way to master a concept is to code it, wire it up on a breadboard, and occasionally learn the hard way when something lets out the magic smoke.
+
+---
+
+### 🔬 What's on My Workbench
+
+* **📡 Embedded Systems & Radio Frequency:**
+  Playing with microcontrollers, sniffing raw wireless packets, exploring RF channel telemetry, and understanding how modern network gateways manage high-speed pipes under the hood.
+
+* **📱 Mobile Silicon & Low-Level Forensics:**
+  Fascinated by boot processes, hardware security boundaries, and physical data acquisition. Exploring how chips initialize before the operating system even wakes up.
+
+* **🧩 Protocols, Virtualization & State Machines:**
+  Diving into distributed networks and smart contracts to hunt for subtle logic mismatches, and exploring sandbox boundaries where software meets the hypervisor.
+
+---
+
+### 🛠️ The Toolkit
+
+```text
+Languages     : C, Python, Bash, Rust, Solidity
+Hardware/RF   : Microcontrollers, Logic Probes, Serial Interfaces, RF Telemetry
+Low-Level     : OS Kernels, Network Filtering, Disassemblers & Debuggers
+Approach      : First-Principles • Clean Architecture • Hands-on Experimentation
 ```
 
 ---
 
-### 🛡️ Custom Ghostware & Defensive Tooling
+### 🤝 Let's Connect
 
-* **`Sannighost Core`**: Deep defensive engine providing socket severing, dynamic state scrubbing, and orphan fallback.
-* **`Turtle Shell & Rub-It-Out`**: Context-shredding anti-tamper shells providing session suppression and volatile memory evacuation.
-* **`Combat Traps & Handshake Twisters`**: Dynamic tripwire sentinels catching probe telemetry and neutralising rogue beaconing.
-* **`FrogSec Arsenal`**: A private tactical laboratory spanning 3,000+ specialized scripts across RF signals intelligence, kernel fuzzers, and challenge-response reverse engineering.
+I'm always excited to collaborate with fellow tinkerers, chat about low-level systems, or tackle challenging freelance security reviews and embedded research projects.
 
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| Domain | Arsenal |
-| :--- | :--- |
-| **Languages & Core** | <img src="https://skillicons.dev/icons?i=c,cpp,rust,solidity,assembly,python,go,bash,ts,js,java,arduino" /> |
-| **Security & Auditing** | `Foundry (cast/forge)` • `Semgrep AST` • `Nuclei` • `FFUF` • `Slither` • `GDB` • `Radare2` • *proprietary FrogSec fuzzers* |
-| **Environments & Cloud** | `Linux x86_64 / Debian` • `Google Cloud Platform (GCP)` • `Android AOSP / Pixel` • `QEMU / KVM` • `EVM Networks` • `POSIX Bare-Metal` |
-
-</div>
-
----
-
-### 📊 Activity Monitor
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Boxfrog1001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00FF66&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boxfrog1001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" height="165" />
-
-</div>
+Got a fascinating technical puzzle, an interesting piece of hardware, or an architecture you want put to the test? 
+- Drop an issue, start a discussion, or explore my projects right here!
 
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220px" alt="Matrix Cyber Frog" />
-  <br/>
-  <samp><i>"A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'" 🍸</i></samp>
+  <samp><i>"Mistakes aren't failures—they're just the hardware telling you how it really works." 🐸⚡</i></samp>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=80&section=footer" width="100%"/>
 </div>
